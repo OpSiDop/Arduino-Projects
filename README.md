@@ -15,6 +15,7 @@ Materials Required
 4. Buzzer
 5. IR Sensor
 
+![image](https://user-images.githubusercontent.com/93781577/193863163-6cb8398a-52bb-42f0-8b2f-ce683a6926b8.png)
 
 # Traffic Light
 Materials Required
