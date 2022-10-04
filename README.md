@@ -1,8 +1,8 @@
 # Arduino-Projects
 List of Projects I have made so far 📝
-1. Fade
-2. Motion Detector
-3. Traffic Light
+1. Fade💡
+2. Motion Detector🏃🔴
+3. Traffic Light🚦
 
 ## Author  -
 ###  Sidhartha Raghaw
