@@ -1,5 +1,5 @@
-# Motion Detector
-Materials Required
+# Motion Detector🏃🔴
+Materials Required 🤔
 1. Arduino UNO
 2. Jumper Wires
 3. Breadboard
