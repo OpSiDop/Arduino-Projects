@@ -16,7 +16,7 @@ Materials Required
 5. IR Sensor
 
 
-#Traffic Light
+# Traffic Light
 Materials Required
 1. Arduino UNO
 2. Jumper Wires
