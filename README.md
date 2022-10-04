@@ -9,7 +9,7 @@ List of Projects I have made so far 📝
 
 <img src = "![image](https://user-images.githubusercontent.com/93781577/193874412-e35fa67f-081c-4740-b6b9-76dbabbe0406.png)
 "  height="120">
-</p>
+
 
 <a href = https://github.com/OpSiDop><img src = "https://www.iconninja.com/files/914/672/909/github-icon.png" width="36" height = "36"/></a>
 <a href = "https://www.instagram.com/pssy_destroyer_sid/">
