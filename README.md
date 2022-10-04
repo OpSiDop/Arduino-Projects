@@ -14,4 +14,5 @@ List of Projects I have made so far 📝
 <a href = "https://www.linkedin.com/in/sidhartha-raghaw-10151b224/">
 <img src = "https://www.iconninja.com/files/272/300/55/linkedin-blue-linkedin-linkedin-logo-icon.png" width="36" height="36"/>
 </a>
+</p>
  <strong>IoT and FLUTTER Developer<strong>
